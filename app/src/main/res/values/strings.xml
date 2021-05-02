@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mini Daily Expenditure</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">About Mini Daily Expenditure</string>
+    <string name="row_description_breakfast">Breakfast</string>
+    <string name="row_description_lunch">Lunch</string>
+    <string name="row_description_teabreak">Tea Break</string>
+    <string name="row_description_dinner">Dinner</string>
+</resources>
