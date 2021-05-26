@@ -1,6 +1,6 @@
 # daily-expenditure-mobile
 
-A mobile application that allows to record daily expenditure and the information is stored locally.
+An Android application that allows to record daily expenditure and the information is stored locally.
 
 ## Functionality
 
